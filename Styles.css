@@ -1,0 +1,161 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 90px;
+  color: #66BFBF;
+  margin: 0;
+  font-family: 'Sacramento', cursive;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #66BFBF;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color:#EAF6F6;
+}
+
+p {
+color: #40514E;
+line-height: 2;}
+
+hr {
+margin-top: 100px;
+border-style: dotted none none none;
+width:10%;
+border-width: 10px;
+border-color: #11999E;
+}
+.top-container {
+  background: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+
+.myprofile {
+  height: 200px;
+  width: 200px;
+border-radius: 50%;
+padding-top: 100px;
+}
+
+.intro{
+  width:30%;
+  margin:auto;
+}
+
+.design{
+  height: 200px;
+  width: 200px;
+border-radius: 50%;
+}
+
+.research {
+  height: 200px;
+  width: 200px;
+border-radius: 50%;
+}
+.top-stars {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+  width:5%;
+}
+
+.bottom-stars {
+  position: absolute;
+  left: 350px;
+  top: 220px;
+  width:5%;
+}
+
+.skills {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 3;
+
+}
+
+.skill-row {
+  margin-bottom: 100px;
+}
+
+.research {
+  width:25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.design{
+  width:25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.contact-me{
+  margin-bottom: 100px;
+  line-height: 3;
+
+}
+
+.contactmedetails{
+  width: 40%;
+  margin:auto;
+  margin-bottom: 50px;
+}
+
+  .btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  -webkit-box-shadow: 0px 1px 3px #66bfbf;
+  -moz-box-shadow: 0px 1px 3px #66bfbf;
+  box-shadow: 0px 1px 3px #66bfbf;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #75e6e6;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+
+
+}
+
+.btn:hover {
+  background: #32bdc2;
+  text-decoration: none;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+.smalltag {
+  margin-top: 30px;
+  color: #EAF6F6;
+  font-size: 10px;
+}
